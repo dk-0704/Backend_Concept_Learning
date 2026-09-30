@@ -1,2 +1,5 @@
 # Backend_Concept_Learning
-Learning the backend engineering with practical code.
+Learning backend engineering with practical code.
+
+<br>
+Author: Devkishan Koshti
